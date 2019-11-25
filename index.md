@@ -23,3 +23,4 @@
 ***
 * Machine Learning
 * ReRAM Based Accelerator
+* Data Mining
