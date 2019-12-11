@@ -3,11 +3,11 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h2>彭诗昊</h2>
-      <p><b>本科生</b></p>
-      <p><b>上海交通大学  电院  信息工程专业</b></p>
-      <p><b>邮箱：psh1998@sjtu.edu.cn</b></p>
-      <p><b>地址：上海市闵行区东川路800号，西11楼，邮编200240</b></p>
+      <h2>Shihao Peng</h2>
+      <p><b>Undergraudate</b></p>
+      <p><b>Shanghai Jiao Tong University  SEIEE  Information Engineering</b></p>
+      <p><b>Email：psh1998@sjtu.edu.cn</b></p>
+      <p><b>Address：Shanghai Jiao Tong University, No.800 Dongchuan Road, Shanghai, China 200240</b></p>
     </td>
     <td width="25%">
       <img src="/zhengjianzhao.png" width="100%">      
