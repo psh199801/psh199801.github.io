@@ -4,8 +4,8 @@
   <tr>
     <td width="75%">
       <h2>Shihao Peng</h2>
-      <p><b>Undergraudate</b></p>
-      <p><b>Shanghai Jiao Tong University      SEIEE     Information Engineering</b></p>
+      <p><b>Undergraudate in Shanghai Jiao Tong University</b></p>
+      <p><b>Major in Information Engineering</b></p>
       <p><b>Email：psh1998@sjtu.edu.cn</b></p>
       <p><b>Address：Shanghai Jiao Tong University, No.800 Dongchuan Road, Shanghai, China 200240</b></p>
     </td>
