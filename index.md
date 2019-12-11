@@ -7,7 +7,7 @@
       <p><b>Undergraudate in Shanghai Jiao Tong University</b></p>
       <p><b>Major in Information Engineering</b></p>
       <p><b>Email：psh1998@sjtu.edu.cn</b></p>
-      <p><b>Address：Shanghai Jiao Tong University, No.800 Dongchuan Road, Shanghai, China 200240</b></p>
+      <p><b>Address：No.800 Dongchuan Road, Shanghai, China 200240</b></p>
     </td>
     <td width="25%">
       <img src="/zhengjianzhao.png" width="100%">      
