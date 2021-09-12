@@ -5,7 +5,7 @@
     <td width="75%">
       <h2>Shihao Peng</h2>
       <p><b>Master in University of Southern California</b></p>
-      <p><b>Majored in Computer Science</b></p>
+      <p><b>Majored in Computer Science, GAP: 4.0/4.0</b></p>
       <p><b>Email：psh199801@gmail.com</b></p>
       <p><b>Address：Los Angeles, CA</b></p>
     </td>
@@ -60,7 +60,7 @@ multiple processes with no kernel-mode preemption.
 file systems through the same UNIX-style interface, like vfat, dev, proc, S5FS file systems.
 * Implemented the virtual memory to manage user address spaces, run user-level code, and service system calls.
 
-### **RPC(Remote Procedure Call) based on Netty **
+### RPC(Remote Procedure Call) based on Netty
 Dec 2020 - Jan 2021
 * Fulfilled a lightweight RPC framework, using Spring to provide dependency injection and parameter configuration.
 * Originated the RPC server with ZooKeeper to deliver service registration and discovery.
