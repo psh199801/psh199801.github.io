@@ -4,8 +4,8 @@
   <tr>
     <td width="75%">
       <h2>Shihao Peng</h2>
-      <p><b>Naster in University of Southern California</b></p>
-      <p><b>Major in Computer Science</b></p>
+      <p><b>Master in University of Southern California</b></p>
+      <p><b>Majored in Computer Science</b></p>
       <p><b>Email：psh199801@gmail.com</b></p>
       <p><b>Address：Los Angeles, CA</b></p>
     </td>
@@ -15,6 +15,11 @@
   </tr>
 </table>
 
+# _Skills_
+
+Programming Languages : Java, SQL, C++, C, C#, Python, JavaScript, MATLAB, Bash & Linux
+Frameworks & Tools : Spring Boot, MySQL, Maven, Bootstrap, RESTful, Redis, Docker, Git, Unity, LaTeX
+
 # _Experience_
 ***
 ###  **HUAWEI & SJTU**, Research Engineer
@@ -23,6 +28,13 @@ Jan 2020 - Jun 2020
 * Initiated a clustering method based on time-division multiplexing to aggregate columns of the matrix and offset ReRAM’s hardware restrictions with 200% less hardware cost.
 * Prototyped a column-combining algorithm for CNN Pruning with over 20 times smaller sizes and less than 1% accuracy
 loss on Keras. (ResNet-18 for CIFAR-10)
+
+### **University of Florida**, Research Assistant
+Jul 2019 - Aug 2019
+* Extracted SPO (subject, predicate, and object) information from sentences based on Universal Dependencies (UD).
+* Selected STS-B as the dataset and extracted SPOs to aggregate the key information of sentences for model training.
+* Improved 15% similarity scores’ accuracy of each pair of sentences with chunk vectors than Bert model on a 0-5
+continuous scale. Tested with 3600 pairs of sentences using Manhattan Distance.
 
 # _Publications_
 ***
