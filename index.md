@@ -61,7 +61,7 @@ file systems through the same UNIX-style interface, like vfat, dev, proc, S5FS f
 * Fulfilled a lightweight RPC framework, using Spring to provide dependency injection and parameter configuration.
 * Originated the RPC server with ZooKeeper to deliver service registration and discovery.
 * Utilized Netty to implement NIO data transfer and Protostuff to execute object serialization.
-* 
+
 # _Publications_
 ***
 * *Cheng Li, Yuming Zhao, **Shihao Peng**, Jinting Chen*. **Bidirectional Single-Stream Temporal Sentence Query Localization in Untrimmed Videos**, In 2019 IEEE International Conference on Image Processing (ICIP) 2019 Sep 22 (pp. 270-274). IEEE.
