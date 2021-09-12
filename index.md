@@ -38,16 +38,14 @@ continuous scale. Tested with 3600 pairs of sentences using Manhattan Distance.
 
 # _Projects_
 ***
-### **High Concurrency Seckill API**
-Jul 2021 - Aug 2021
+### **High Concurrency Seckill API**, Jul 2021 - Aug 2021
 * Used SpringBoot to build the seckill API in a high concurrency system. Completed the product list display, user
 information verification, and the process of placing orders for goods after the seckill started.
 * Exerted RESTful for endpoint design, Bootstrap for page layout, and jQuery for timing and interactions.
 * Cached inventory information into Redis directly to shift the pressure of MySQL server and reduce network latency.
 * Tested with 1000 threads by Jmeter, improved the concurrency performance by 10% with the stored procedure.
 
-### **Student Management System**,
-Jun 2021
+### **Student Management System**, Jun 2021
 * Monitored and managed student account activities through a back-end application interacting with JSON.
 * Applied Spring JPA, MyBatis to implement CRUD operations on student information stored on MySQL.
 * Resolved security issues with Shiro for user authentication and portal validation.
