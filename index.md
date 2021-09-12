@@ -5,7 +5,7 @@
     <td width="75%">
       <h2>Shihao Peng</h2>
       <p><b>Master in University of Southern California</b></p>
-      <p><b>Majored in Computer Science, GAP: 4.0/4.0</b></p>
+      <p><b>Majored in Computer Science, GPA: 4.0/4.0</b></p>
       <p><b>Email：psh199801@gmail.com</b></p>
       <p><b>Address：Los Angeles, CA</b></p>
     </td>
