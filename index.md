@@ -10,7 +10,7 @@
       <p><b>Address：Los Angeles, CA</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.png" width="100%">      
+      <img src="/1c01276a45d660d7a2e561541f72629.jpg" width="100%">      
     </td>
   </tr>
 </table>
