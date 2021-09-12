@@ -4,10 +4,10 @@
   <tr>
     <td width="75%">
       <h2>Shihao Peng</h2>
-      <p><b>Undergraudate in Shanghai Jiao Tong University</b></p>
-      <p><b>Major in Information Engineering</b></p>
-      <p><b>Email：psh1998@sjtu.edu.cn</b></p>
-      <p><b>Address：No.800 Dongchuan Road, Shanghai, China 200240</b></p>
+      <p><b>Naster in University of Southern California</b></p>
+      <p><b>Major in Computer Science</b></p>
+      <p><b>Email：psh199801@gmail.com</b></p>
+      <p><b>Address：Los Angeles, CA</b></p>
     </td>
     <td width="25%">
       <img src="/zhengjianzhao.png" width="100%">      
