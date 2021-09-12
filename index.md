@@ -17,7 +17,7 @@
 
 # _Experience_
 ***
-* **HUAWEI & SJTU**, Research Engineer
+## **HUAWEI & SJTU**, Research Engineer
 * Proposed a new mapping scheme for sparse neural network matrices to balance the ReRAM’s multiple-level-cell structure and embedded K-means algorithms while maintaining inference accuracy.
 * Initiated a clustering method based on time-division multiplexing to aggregate columns of the matrix and offset ReRAM’s hardware restrictions with 200% less hardware cost.
 * Prototyped a column-combining algorithm for CNN Pruning with over 20 times smaller sizes and less than 1% accuracy
