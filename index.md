@@ -17,8 +17,8 @@
 
 # _Skills_
 
-Programming Languages : Java, SQL, C++, C, C#, Python, JavaScript, MATLAB, Bash & Linux
-Frameworks & Tools : Spring Boot, MySQL, Maven, Bootstrap, RESTful, Redis, Docker, Git, Unity, LaTeX
+**Programming Languages:** Java, SQL, C++, C, C#, Python, JavaScript, MATLAB, Bash & Linux
+**Frameworks & Tools:** Spring Boot, MySQL, Maven, Bootstrap, RESTful, Redis, Docker, Git, Unity, LaTeX
 
 # _Experience_
 ***
